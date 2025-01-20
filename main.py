@@ -98,6 +98,28 @@ dictionaries = {
         "three": "uku",
     },
 
+    "Tiv" : {
+    "ikyo": "house",
+    "avom": "friend",
+    "mbakwen": "water",
+    "nyam": "food",
+    "takur": "father",
+    "ngyu": "mother",
+    "tor": "child",
+    "sham": "man",
+    "kim": "woman",
+    "ile": "school",
+    "akpan": "big",
+    "torom": "small",
+    "hena": "eye",
+    "kpi": "ear",
+    "ase": "hand",
+    "ba": "leg",
+    "vul": "tree",
+    "shwe": "sun",
+    "gya": "moon",
+    "kwase": "rain"
+}
     
 }
 
