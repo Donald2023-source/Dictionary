@@ -27,6 +27,26 @@ dictionaries = {
         "boy": "garçon",
         "pencil": "crayon",
     },
+
+    "Igala": {
+        "thank you": "anẹ",
+        "please": "ẹ biko",
+        "yes": "ẹẹ",
+        "no": "ọda",
+        "water": "ama",
+        "food": "nra",
+        "house": "ụla",
+        "book": "akwụkwọ",
+        "man": "ọmẹ",
+        "woman": "ọb’iyọ",
+        "Head": "Oji",
+        "Hand": "Ówó",
+        "Forehead": "Ógba Oji",
+        "Blood": "Ebié",
+        "Breath": "Imi",
+        "four": "Őnáńá",
+        "bench": "Èkpé",
+    },
 }
 
 def search_word():
