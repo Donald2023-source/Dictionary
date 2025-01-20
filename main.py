@@ -73,6 +73,32 @@ dictionaries = {
         "road": "ọ̀nà",
         "money": "owo",
     },
+
+
+    "Hausa": {
+        "thank you": "na gode",
+        "no": "a'a",
+        "water": "ruwa",
+        "food": "abinci",
+        "house": "gida",
+        "book": "littafi",
+        "man": "namiji",
+        "woman": "mace",
+        "chair": "Kujera",
+        "bag": "Jaka",
+        "walk": "Tafiya",
+        "sit": "Zauna",
+        "leg": "kafa",
+        "shoe": "takalmi",
+        "talk": "magana",
+        "sleep": "baci",
+        "right": "dama",
+        "left": "hagu",
+        "floor": "sakwara",
+        "three": "uku",
+    },
+
+    
 }
 
 def search_word():
