@@ -44,8 +44,9 @@ dictionaries = {
         "Forehead": "Ógba Oji",
         "Blood": "Ebié",
         "Breath": "Imi",
-        "four": "Őnáńá",
         "bench": "Èkpé",
+        "four": "Őnáńá",
+        
     },
 }
 
